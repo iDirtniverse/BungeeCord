@@ -25,7 +25,7 @@ public class CommandServer extends Command implements TabExecutor
 
     public CommandServer()
     {
-        super( "server", "bungeecord.command.server" );
+        super( "goto", "bungeecord.command.server" );
     }
 
     @Override
